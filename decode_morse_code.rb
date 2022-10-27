@@ -50,5 +50,4 @@ def decode_message(message)
   end
 end
 
-
 decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
