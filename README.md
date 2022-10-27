@@ -20,8 +20,8 @@ cd into the directory and run bundle install to install dependencies
 Authors
 👤 Tadesse Jemal.
 
-    GitHub: @orozCoding
-    Twitter: @orozCoding
+    GitHub: @Coding
+    Twitter: @Coding
     LinkedIn: 
 👤 Matias Aguiro
 
