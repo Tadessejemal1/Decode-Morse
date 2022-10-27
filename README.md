@@ -13,7 +13,7 @@ Ruby program to decode morse code messages.
     Git and Github Terminal browser.
 ## Setup
 
-clone the following repo https://github.com/gtekle/decode-morse-code/tree/develop
+clone the following repo https://github.com/Tadessejemal1/decode-morse
 cd into the directory and run bundle install to install dependencies
 
 ## Credits
