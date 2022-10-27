@@ -17,17 +17,21 @@ clone the following repo https://github.com/Tadessejemal1/decode-morse
 cd into the directory and run bundle install to install dependencies
 
 ## Credits
-Authors
-👤 Tadesse Jemal.
 
-    GitHub: @Coding
+## Authors
+
+## 👤 Tadesse Jemal.
+
+    GitHub: @Tadessejemal1
     Twitter: @Coding
-    LinkedIn: 
-👤 Matias Aguiro
-  
-    GitHub: @
-    Twitter: @Coding
-    LinkedIn: LinkedIn
+    LinkedIn: [LinkedIn](https://www.linkedin.com/in/)
+
+## 👤 Matias Aguirre
+
+- GitHub: [@LokurasRlz](https://github.com/LokurasRlz)
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/)
+
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
