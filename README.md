@@ -24,8 +24,9 @@ Authors
     Twitter: @Coding
     LinkedIn: 
 👤 Matias Aguiro
-
+  
     GitHub: @
+    Twitter: @Coding
     LinkedIn: LinkedIn
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
